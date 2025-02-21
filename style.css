@@ -1,0 +1,82 @@
+h1{
+    background-color: aqua;
+    border-radius: 20px;
+    border: 3px solid red;
+    text-align: center;
+
+}
+span{
+    background-color: yellow;
+}
+i{
+    color: red;
+}
+h2{
+    color: green;
+}
+.ss{
+    text-align: center;
+    background-color: yellow;
+    color: green;
+
+}
+.dd{
+    width: 45%;
+    
+}
+.ff{
+    width: 45%;
+}
+.gg{
+    text-align: center;
+    background-color: yellow;
+    color: green;
+
+}
+div{
+    width: 90%;
+     border-radius: 5px;
+      background-color: #111;
+      text-align: center;
+}
+.rr{
+    color: green;
+}
+textarea{
+    width: 90%;
+}
+button{
+    background-color: aqua;
+    color: white;
+    width: 200px;
+    height: 30px;
+}
+.tt{
+    background-color: green;
+    
+}
+
+th,td{
+    border: 1px solid black;
+    text-align: center;
+    color: white;
+}
+.yy{
+    background-color: blue;
+   
+}
+.uu{
+    background-color: red;
+    
+
+}
+.ii{
+    background-color: black;
+    
+}
+.oo{
+    width: 1000px;
+    height: 100px ;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
